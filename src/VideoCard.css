@@ -1,0 +1,35 @@
+.vid {
+    width: 250px;
+    margin-bottom: 40px;
+}
+
+.vid__thumbnail {
+    height: 120px;
+    width: 180px;
+}
+
+.vid__info {
+    display: flex;
+    margin-top: 10px;
+    padding-right: 30px;
+}
+
+.vid__text {
+    margin-left: 15px;
+
+}
+
+.vid__text > h4 {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.vid__text > p {
+    font-size: 14px;
+    color: gray;
+}
+
+.vid__avatar {
+    height: 30px !important;
+    width: 30px !important;
+}
